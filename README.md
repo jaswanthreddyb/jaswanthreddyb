@@ -1,4 +1,4 @@
-# Hi, I'm Jaswanth Reddy 👋
+# Hi, I'm Jaswanth Reddy 
 
 ### AI & Data Analytics Enthusiast | Python | SQL | Machine Learning
 
@@ -10,19 +10,19 @@ turning real-world problems into useful software.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Computer Science Engineering student
-- 🤖 Interested in AI, Machine Learning & Data Analytics
-- 🐍 Currently working with Python and its data ecosystem
-- 📊 Learning and building projects using Pandas, NumPy, Matplotlib & Scikit-learn
-- 🗄️ Strong interest in SQL and data analysis
-- 🔍 Currently building an AI-powered Fraud Detection & Risk Assessment System
-- 💡 Interested in solving real-world problems using AI and data
+-  Computer Science Engineering student
+-  Interested in AI, Machine Learning & Data Analytics
+-  Currently working with Python and its data ecosystem
+-  Learning and building projects using Pandas, NumPy, Matplotlib & Scikit-learn
+-  Strong interest in SQL and data analysis
+-  Currently building an AI-powered Fraud Detection & Risk Assessment System
+-  Interested in solving real-world problems using AI and data
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,9 +43,9 @@ turning real-world problems into useful software.
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🛡️ AI-Powered Fraud Detection & Risk Assessment System
+###  AI-Powered Fraud Detection & Risk Assessment System
 
 An AI-powered system designed to detect suspicious financial transactions,
 assess risk levels, explain why a transaction is suspicious, and support
@@ -55,7 +55,7 @@ fraud investigation.
 
 ---
 
-### 📊 E-Commerce Sales Analysis
+###  E-Commerce Sales Analysis
 
 An end-to-end exploratory data analysis project using an e-commerce
 dataset to identify sales trends, customer behavior, product performance,
@@ -65,7 +65,7 @@ profitability and business insights.
 
 ---
 
-### 🚚 AI Delivery Route Optimizer
+###  AI Delivery Route Optimizer
 
 A route optimization project using **Uniform Cost Search** to find
 cost-effective delivery routes between locations.
@@ -74,7 +74,7 @@ cost-effective delivery routes between locations.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Pandas
 - Data Analysis & Visualization
@@ -86,7 +86,7 @@ cost-effective delivery routes between locations.
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 I'm working toward becoming a strong **AI / Data Analytics professional**
 by building real-world projects and continuously improving my technical
@@ -94,13 +94,13 @@ and problem-solving skills.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 **GitHub:** [@jaswanthreddyb](https://github.com/jaswanthreddyb)
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey in AI,
+ Feel free to explore my repositories and follow my journey in AI,
 Machine Learning and Data Analytics.
 
 
